@@ -176,8 +176,8 @@ Slack notification sent
 ---
 ## Example Jira Ticket
 
-<img width="1100" height="48" alt="JIRA1" src="https://github.com/user-attachments/assets/b9be790d-d47e-48b4-b6ef-bf9ff8527928" />
 
+![Jira Ticket](screenshots/JIRA1.png)
 
 ![Jira Ticket](screenshots/JIRA2.png)
 
