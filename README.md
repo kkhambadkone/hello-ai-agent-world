@@ -173,6 +173,20 @@ Jira ticket created: SCRUM-21
 Slack notification sent
 
 ---
+## Example Jira Ticket
+
+![Jira Ticket](screenshots/JIRA1.png)
+
+![Jira Ticket](screenshots/JIRA2.png)
+
+## Example Slack channel notification
+
+![Slack Channel Notificaiton](screenshots/SLACK1.png)
+
+## Example Email 
+                      
+![Email  Notificaiton](screenshots/EMAIL1.png)
+
 
 # Project Structure
 
