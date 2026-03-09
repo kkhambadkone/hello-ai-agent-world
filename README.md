@@ -159,30 +159,18 @@ python generatejiraticketAIAgent.py
 Enter a problem description:
 
 ```
-Describe the problem:
-```
-
-Example:
-
-```
-Payment service returning 500 errors for all users
-```
+Describe the problem: The following features have to be added to the application 1. Add Dropdown to select city and state 2. Add checkbox to accept terms.  In ticket Description create a neatly formatted list numbered list of the features. This is not a bug. Create it with issuetype of Feature. Keep summary short to not exceed 50 characters.
 
 ---
 
 # Example Output
 
-```
 Analyzing issue using AI...
 
-AI Decision:
-Priority: High
-Issue Type: Bug
-
-Jira ticket created: PAY-101
-Email notification sent
+AI Decision: {'priority': 'Low', 'issue_type': 'Feature', 'needs_slack': True, 'needs_email': False}
+{'id': '10094', 'key': 'SCRUM-21', 'self': 'https://krish-ai-test.atlassian.net/rest/api/3/issue/10094'}
+Jira ticket created: SCRUM-21
 Slack notification sent
-```
 
 ---
 
