@@ -179,7 +179,7 @@ Slack notification sent
 
 ![Jira Ticket](screenshots/JIRA1.png)
 
-![Jira Ticket](screenshots/JIRA2.png)
+<img src="screenshots/JIRA2.png" width="400" height="300">
 
 ## Example Slack channel notification
 
@@ -187,7 +187,7 @@ Slack notification sent
 
 ## Example Email 
                       
-![Email  Notificaiton](screenshots/EMAIL1.png)
+<img src="screenshots/EMAIL1.png" width="400" height="300">
 
 ---
 
