@@ -187,6 +187,7 @@ Slack notification sent
                       
 ![Email  Notificaiton](screenshots/EMAIL1.png)
 
+---
 
 # Project Structure
 
