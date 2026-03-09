@@ -153,7 +153,7 @@ https://api.slack.com/messaging/webhooks
 Run the script:
 
 ```
-python ai_helpdesk_agent.py
+python generatejiraticketAIAgent.py  
 ```
 
 Enter a problem description:
