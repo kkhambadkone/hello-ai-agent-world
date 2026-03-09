@@ -160,6 +160,7 @@ Enter a problem description:
 
 ```
 Describe the problem: The following features have to be added to the application 1. Add Dropdown to select city and state 2. Add checkbox to accept terms.  In ticket Description create a neatly formatted list numbered list of the features. This is not a bug. Create it with issuetype of Feature. Keep summary short to not exceed 50 characters.
+```
 
 ---
 
