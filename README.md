@@ -175,7 +175,7 @@ Slack notification sent
 ---
 ## Example Jira Ticket
 
-![Jira Ticket](https://github.com/kkhambadkone/hello-ai-agent-world/blob/master/screenshots/JIRA1.png)
+![Jira Ticket](screenshots/JIRA1.png)
 
 ![Jira Ticket](screenshots/JIRA2.png)
 
