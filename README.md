@@ -191,18 +191,6 @@ Slack notification sent
 
 ---
 
-# Project Structure
-
-```
-ai-helpdesk-agent/
-│
-├── ai_helpdesk_agent.py
-├── README.md
-└── requirements.txt
-```
-
----
-
 # Future Enhancements
 
 Possible improvements:
