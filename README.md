@@ -17,6 +17,7 @@ The agent uses **Llama3 via Ollama** to understand problem descriptions and dete
 * 📧 **Email notification to support teams**
 * 💬 **Slack alerts for real-time monitoring**
 * ⚡ **Fully automated helpdesk workflow**
+* 🤖 **Demonstrates 2 shot and Chain of thought prompting
 
 ---
 
@@ -63,9 +64,36 @@ Email Notification: Yes
 
 **Actions Performed:**
 
+...
 1. Jira ticket created
 2. Email notification sent
 3. Slack alert posted
+...
+
+
+**Input:**
+
+```
+Create a product selection page where users can choose:
+ - Product category from a dropdown
+ - Product brand from a dropdown
+ - Delivery speed using radio buttons
+ - Warranty option using radio buttons
+# The page should also include a submit button and validation if nothing is selected.
+```
+
+**AI Decision:**
+
+```
+Priority: Medium 
+Issue Type: Story 
+Slack Alert: No 
+Email Notification: No 
+```
+
+**Actions Performed:**
+
+1. Jira ticket created
 
 ---
 
