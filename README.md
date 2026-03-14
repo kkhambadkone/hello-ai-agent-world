@@ -64,11 +64,11 @@ Email Notification: Yes
 
 **Actions Performed:**
 
-...
+```
 1. Jira ticket created
 2. Email notification sent
 3. Slack alert posted
-...
+```
 
 
 **Input:**
@@ -93,7 +93,9 @@ Email Notification: No
 
 **Actions Performed:**
 
+```
 1. Jira ticket created
+```
 
 ---
 
