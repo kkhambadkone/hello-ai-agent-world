@@ -79,7 +79,6 @@ Create a product selection page where users can choose:
  - Product brand from a dropdown
  - Delivery speed using radio buttons
  - Warranty option using radio buttons
-# The page should also include a submit button and validation if nothing is selected.
 ```
 
 **AI Decision:**
