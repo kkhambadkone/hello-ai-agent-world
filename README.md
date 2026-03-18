@@ -17,8 +17,8 @@ The agent uses **Llama3 via Ollama** to understand problem descriptions and dete
 * 📨 **Email notification to support teams**
 * 💬 **Slack alerts for real-time monitoring**
 * ⚡ **Fully automated helpdesk workflow**
-* 🔔 **Demonstrates 2 shot and Chain of thought prompting
-* 🔗 **Demonstrates use of Langchain 
+* 🔔 **Demonstrates 2 shot and Chain of thought prompting**
+* 🔗 **Demonstrates use of Langchain** 
 
 ---
 
