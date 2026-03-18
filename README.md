@@ -12,12 +12,13 @@ The agent uses **Llama3 via Ollama** to understand problem descriptions and dete
 
 # Features
 
-* 🤖 **AI-powered issue classification**
-* 🎫 **Automatic Jira ticket creation**
-* 📧 **Email notification to support teams**
+* 🧠 **AI-powered issue classification**
+* 🎟️ **Automatic Jira ticket creation**
+* 📨 **Email notification to support teams**
 * 💬 **Slack alerts for real-time monitoring**
 * ⚡ **Fully automated helpdesk workflow**
-* 🤖 **Demonstrates 2 shot and Chain of thought prompting
+* 🔔 **Demonstrates 2 shot and Chain of thought prompting
+* 🔗 **Demonstrates use of Langchain 
 
 ---
 
