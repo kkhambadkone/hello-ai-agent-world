@@ -36,6 +36,32 @@ Automation Tools
  ├── SMTP Email
  └── Slack Webhook
 ```
+```
+                 ┌───────────────────┐
+                 │    User Input     │
+                 │ (Problem Report)  │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │  API / CLI Layer  │
+                 │ (Receive & Format)│
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │   LLM Decision    │
+                 │ (Ollama + Llama3) │
+                 └─────────┬─────────┘
+                           │
+      ┌────────────────────┼────────────────────┐
+      ▼                    ▼                    ▼
+┌─────────────┐   ┌─────────────────┐   ┌─────────────┐
+│  Jira API   │   │ Slack Webhooks  │   │ Email (SMTP)│
+│ (Ticketing) │   │ (Alerts)        │   │ (Notifications)│
+└─────────────┘   └─────────────────┘   └─────────────┘
+
+```
 
 The AI agent analyzes the issue and automatically decides:
 
